@@ -5,7 +5,7 @@
 
 
 void client() {
-	std::string ipAddress = "127.0.0.1";
+	std::string ipAddress = "88.115.134.206";
 	int port = 54000;
 
 	// Initialize WinSock
